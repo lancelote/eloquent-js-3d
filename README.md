@@ -1,4 +1,4 @@
-# eloquent_js_3rd
+# eloquent-js-3rd
 
 My code for "[Eloquent JavaScript][1]" 3rd Edition by Marijn Haverbeke
 
