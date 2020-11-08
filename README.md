@@ -8,6 +8,7 @@ My code for "[Eloquent JavaScript][1]" 3rd Edition by Marijn Haverbeke
   - Chapter 1: Values, Types, and Operators
   - Chapter 2: Program Structure
     - [Exercise 1: Looping a Triangle](src/chapter01/looping_a_triangle.js)
+    - [Exercise 2: FizzBuzz](src/chapter01/fizz_buzz.js)
   - Chapter 3: Functions
   - Chapter 4: Data Structures: Objects and Arrays
   - Chapter 5: Higher-Order Functions
