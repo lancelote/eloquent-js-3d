@@ -13,6 +13,7 @@ My code for "[Eloquent JavaScript][1]" 3rd Edition by Marijn Haverbeke
   - Chapter 3: Functions
   - Chapter 4: Data Structures: Objects and Arrays
   - Chapter 5: Higher-Order Functions
+    - [`some` function](src/chapter05/some_function.js)
   - Chapter 6: The Secret Life of Objects
   - Chapter 7: Project: A Robot
   - Chapter 8: Bugs and Errors
