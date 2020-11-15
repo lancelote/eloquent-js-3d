@@ -12,6 +12,7 @@ My code for "[Eloquent JavaScript][1]" 3rd Edition by Marijn Haverbeke
     - [Exercise 3: Chessboard](src/chapter01/chessboard.js)
   - Chapter 3: Functions
     - [Exercise 1: Minimum](src/chapter03/minimum.js)
+    - [Exercise 2: Recursion](src/chapter03/recursion.js)
   - Chapter 4: Data Structures: Objects and Arrays
   - Chapter 5: Higher-Order Functions
     - [`some` function](src/chapter05/some_function.js)
