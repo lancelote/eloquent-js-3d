@@ -11,6 +11,7 @@ My code for "[Eloquent JavaScript][1]" 3rd Edition by Marijn Haverbeke
     - [Exercise 2: FizzBuzz](src/chapter01/fizz_buzz.js)
     - [Exercise 3: Chessboard](src/chapter01/chessboard.js)
   - Chapter 3: Functions
+    - [Exercise 1: Minimum](src/chapter03/minimum.js)
   - Chapter 4: Data Structures: Objects and Arrays
   - Chapter 5: Higher-Order Functions
     - [`some` function](src/chapter05/some_function.js)
