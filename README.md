@@ -13,6 +13,7 @@ My code for "[Eloquent JavaScript][1]" 3rd Edition by Marijn Haverbeke
   - Chapter 3: Functions
     - [Exercise 1: Minimum](src/chapter03/minimum.js)
     - [Exercise 2: Recursion](src/chapter03/recursion.js)
+    - [Exercise 3: Bean Counting](src/chapter03/bean_counting.js)
   - Chapter 4: Data Structures: Objects and Arrays
   - Chapter 5: Higher-Order Functions
     - [`some` function](src/chapter05/some_function.js)
