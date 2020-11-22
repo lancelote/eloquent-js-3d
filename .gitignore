@@ -1,2 +1,5 @@
 # WebStorm
 .idea/
+
+# JS
+node_modules/
