@@ -16,8 +16,9 @@ My code for "[Eloquent JavaScript][1]" 3rd Edition by Marijn Haverbeke
     - [Exercise 3: Bean Counting](src/chapter03/bean_counting.js)
   - Chapter 4: Data Structures: Objects and Arrays
     - [Calculating PHI](src/chapter04/calculating_phi.js)
+    - [Lycanthrope Example](src/chapter04/lycanthrope.js)
   - Chapter 5: Higher-Order Functions
-    - [`some` function](src/chapter05/some_function.js)
+    - [`some` Function](src/chapter05/some_function.js)
   - Chapter 6: The Secret Life of Objects
   - Chapter 7: Project: A Robot
   - Chapter 8: Bugs and Errors
