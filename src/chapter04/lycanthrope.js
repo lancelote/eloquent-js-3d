@@ -1,14 +1,16 @@
 import { JOURNAL } from "./journal.js";
 
-const phi = table => {
+const phi = (table) => {
   //      11         00         10         01
-  return (table[3] * table[0] - table[2] * table[1]) /
+  return (
+    (table[3] * table[0] - table[2] * table[1]) /
     Math.sqrt(
       (table[2] + table[3]) *
-      (table[0] + table[1]) *
-      (table[1] + table[3]) *
-      (table[0] + table[2])
-    );
+        (table[0] + table[1]) *
+        (table[1] + table[3]) *
+        (table[0] + table[2])
+    )
+  );
 };
 
 const tableFor = (event, journal) => {
@@ -21,11 +23,11 @@ const tableFor = (event, journal) => {
     table[index] += 1;
   }
   return table;
-}
+};
 
 console.assert(tableFor("pizza", JOURNAL)[0] === 76);
 
-const journalEvents = journal => {
+const journalEvents = (journal) => {
   let events = [];
   for (const entry of journal) {
     for (const event of entry.events) {

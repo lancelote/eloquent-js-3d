@@ -1,4 +1,4 @@
-const {countBs, countChar} = require("./bean_counting");
+const { countBs, countChar } = require("./bean_counting");
 
 describe("test countBs", () => {
   test("BBS", () => {
