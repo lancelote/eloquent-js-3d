@@ -16,7 +16,7 @@ My code for "[Eloquent JavaScript][1]" 3rd Edition by Marijn Haverbeke
 - [x] Chapter 4: Data Structures: Objects and Arrays
   - [Calculating PHI](src/chapter04/calculating_phi.js)
   - [Lycanthrope Example](src/chapter04/lycanthrope.js)
-- [ ] Chapter 5: Higher-Order Functions
+- [x] Chapter 5: Higher-Order Functions
   - [`some` Function](src/chapter05/some_function.js)
   - [Count By](src/chapter05/count_by.js)
   - [Which Scripts are Used](src/chapter05/which_script.js)
