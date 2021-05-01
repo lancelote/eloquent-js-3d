@@ -23,6 +23,7 @@ My code for "[Eloquent JavaScript][1]" 3rd Edition by Marijn Haverbeke
   - [Exercise 1: Flattening](src/chapter05/flattening.js)
   - [Exercise 2: Your Own Loop](src/chapter05/your_own_loop.js)
   - [Exercise 3: Everything](src/chapter05/everything.js)
+  - [Exercise 4: Dominant Writing Direction](src/chapter05/dominant.js)
 - [ ] Chapter 6: The Secret Life of Objects
 - [ ] Chapter 7: Project: A Robot
 - [ ] Chapter 8: Bugs and Errors
