@@ -21,6 +21,7 @@ My code for "[Eloquent JavaScript][1]" 3rd Edition by Marijn Haverbeke
   - [Count By](src/chapter05/count_by.js)
   - [Which Scripts are Used](src/chapter05/which_script.js)
   - [Exercise 1: Flattening](src/chapter05/flattening.js)
+  - [Exercise 2: Your Own Loop](src/chapter05/your_own_loop.js)
 - [ ] Chapter 6: The Secret Life of Objects
 - [ ] Chapter 7: Project: A Robot
 - [ ] Chapter 8: Bugs and Errors
