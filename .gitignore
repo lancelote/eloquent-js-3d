@@ -3,3 +3,4 @@
 
 # JS
 node_modules/
+.eslintcache
