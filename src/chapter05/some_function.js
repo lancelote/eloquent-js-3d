@@ -1,6 +1,6 @@
 import { SCRIPTS } from "./scripts.js";
 
-const characterScript = code => {
+export const characterScript = code => {
     for (let script of SCRIPTS) {
         if (script.ranges.some(([from, to]) => {
             return code >= from && code < to;
@@ -12,3 +12,4 @@ const characterScript = code => {
 }
 
 console.log(characterScript(121).name);
+// Latin
