@@ -26,6 +26,7 @@ My code for "[Eloquent JavaScript][1]" 3rd Edition by Marijn Haverbeke
   - [Exercise 4: Dominant Writing Direction](src/chapter05/dominant.js)
 - [ ] Chapter 6: The Secret Life of Objects
   - [Basic Method](src/chapter06/basic_method.js)
+  - [Create Object from Prototype](src/chapter06/object_create.js)
 - [ ] Chapter 7: Project: A Robot
 - [ ] Chapter 8: Bugs and Errors
 - [ ] Chapter 9: Regular Expressions
