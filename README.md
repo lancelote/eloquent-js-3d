@@ -30,6 +30,7 @@ My code for "[Eloquent JavaScript][1]" 3rd Edition by Marijn Haverbeke
   - [Using Constructor](src/chapter06/using_constructor.js)
   - [Basic Class](src/chapter06/basic_class.js)
   - [Class as Expression](src/chapter06/class_expression.js)
+  - [Custom `toString`](src/chapter06/custom_to_string.js)
 - [ ] Chapter 7: Project: A Robot
 - [ ] Chapter 8: Bugs and Errors
 - [ ] Chapter 9: Regular Expressions
