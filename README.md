@@ -32,6 +32,7 @@ My code for "[Eloquent JavaScript][1]" 3rd Edition by Marijn Haverbeke
   - [Class as Expression](src/chapter06/class_expression.js)
   - [Custom `toString`](src/chapter06/custom_to_string.js)
   - [Symbols](src/chapter06/symbols.js)
+  - [Symbols in Expressions](src/chapter06/symbols_in_expressions.js)
 - [ ] Chapter 7: Project: A Robot
 - [ ] Chapter 8: Bugs and Errors
 - [ ] Chapter 9: Regular Expressions
